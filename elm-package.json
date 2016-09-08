@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "summary": "Delegates update messages to one or many children",
     "repository": "https://github.com/ktonon/elm-child-update.git",
     "license": "BSD3",
